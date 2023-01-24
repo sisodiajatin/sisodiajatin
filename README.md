@@ -1,4 +1,4 @@
-
+<img src = "https://github.com/sisodiajatin/sisodiajatin/blob/main/github-header-image%20(2).png" width = "100%"><br>
 <h1 align="center">Hi 👋, I'm Jatin Sisodia</h1>
 <h3 align="center">A passionate frontend developer , programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479m9ortigz74vgjzluzxv84aek99wgxe1lkt0qc3g&rid=giphy.gif&ct=g">
